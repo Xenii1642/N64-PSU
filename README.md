@@ -1,6 +1,6 @@
 <picture> <source media="(prefers-color-scheme: dark)" srcset="Images/logo-white.png" width="800"> <img src="Images/logo-dark.png" width="800"> </picture> 
-<img src="Images/img1.jpg" width="400" />  <img src="Images/img2.jpg" width="400" /> 
-<img src="Images/render-front.png" width="400" />  <img src="Images/render-back.png" width="400" /> 
+<img src="Images/img1.JPG" width="400" />  <img src="Images/img2.JPG" width="335" /> 
+<img src="Images/render-front.png" width="380" />  <img src="Images/render-back.png" width="355" /> 
 
 # Introduction 
 The N64-PSU is a simple, compact, cheap and open-source Nintendo 64 Power Supply Unit. 
@@ -23,12 +23,13 @@ Components are listed in the [BOM.pdf](https://github.com/Xenii1642/N64-PSU/BOM.
 # Connection Diagram
 The N64-PSU can be connected to a Nintendo 64 motherboard as shown:
 <img src="Images/diagram.png" width="800" />
+
 ⚠️ It is highly recommended to remove the original 12 to 5V LDO (U13) ⚠️
 
 ⚠️ Never power the console by both the original power supply and the N64-PSU as the same time.
 This will damage and destroy the voltage regulators of the N64-PSU. ⚠️
 
-For further information, please take a look at the [N64 Trimming Guide](https://bitbuilt.net/forums/threads/the-advanced-n64-trimming-guide.3992/)
+For further information, please take a look at the [N64 Trimming Guide](https://bitbuilt.net/forums/threads/the-advanced-n64-trimming-guide.3992/) on [Bitbuilt.net](https://www.bitbuilt.net/)
 
 # License
 The N64-PSU is released under the CERN-OHL-S-2.0 license. This license allows you to:
