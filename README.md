@@ -13,6 +13,7 @@ Further information can be found on this [BitBuilt Post] SOON
 - 5V Regulator
 - Up to 3A per rail
 - 16x25mm form factor
+- Price under $5 per unit 
 
 # Ordering
 The PCB Gerbers files are available in the [Gerbers folder](https://github.com/Xenii1642/N64-PSU/tree/main/Gerbers) of this repository. 
