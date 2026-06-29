@@ -6,7 +6,7 @@
 The N64-PSU is a simple, compact, cheap and open-source Nintendo 64 Power Supply Unit. 
 It can be used to power trimmed Nintendo 64 motherboard, or builds like the [Matterhorn 64 Core](https://github.com/Xenii1642/Matterhorn-64-CORE/)
 This board is based on the [CrazyGadget's PSU-PLUS](https://github.com/CrazyGadgetMods/PSU-Plus). 
-Further information can be found on this [BitBuilt Post] SOON
+Further information can be found on this [BitBuilt Post](https://bitbuilt.net/forums/threads/n64-psu-tiny-and-open-source-nintendo-64-psu.7408/)
 
 # Caracteristics 
 - Input voltage from 6V to 18V
