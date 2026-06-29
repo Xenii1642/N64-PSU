@@ -1,5 +1,4 @@
 <picture> <source media="(prefers-color-scheme: dark)" srcset="Images/logo-white.png" width="800"> <img src="Images/logo-dark.png" width="800"> </picture> 
-
 <img src="Images/img1.JPG" width="400" />  <img src="Images/img2.JPG" width="335" /> 
 <img src="Images/render-front.png" width="380" />  <img src="Images/render-back.png" width="355" /> 
 
