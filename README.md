@@ -15,10 +15,10 @@ Further information can be found on this [BitBuilt Post]
 - 16x25mm form factor
 
 # Ordering
-The PCB Gerbers files are available in the [Gerbers folder](https://github.com/Xenii1642/N64-PSU/Gerbers/) of this repository. 
-They can be ordered through either [PCBway](www.pcbway.com), [JLCPCB](www.jlcpcb.com) or the manufacturer you want. 
+The PCB Gerbers files are available in the [Gerbers folder](https://github.com/Xenii1642/N64-PSU/tree/main/Gerbers) of this repository. 
+They can be ordered through either [PCBway](https://www.pcbway.com/), [JLCPCB](https://www.jlcpcb.com/) or the manufacturer you want. 
 
-Components are listed in the [BOM.pdf](https://github.com/Xenii1642/N64-PSU/BOM.pdf) file, and can be ordered through [Digikey](www.digikey.com)
+Components are listed in the [BOM.pdf](https://github.com/Xenii1642/N64-PSU/blob/main/BOM.pdf) file, and can be ordered through [Digikey](https://www.digikey.com/)
 
 # Connection Diagram
 The N64-PSU can be connected to a Nintendo 64 motherboard as shown:
@@ -29,7 +29,7 @@ The N64-PSU can be connected to a Nintendo 64 motherboard as shown:
 ⚠️ Never power the console by both the original power supply and the N64-PSU as the same time.
 This will damage and destroy the voltage regulators of the N64-PSU. ⚠️
 
-For further information, please take a look at the [N64 Trimming Guide](https://bitbuilt.net/forums/threads/the-advanced-n64-trimming-guide.3992/) on [Bitbuilt.net](https://www.bitbuilt.net/)
+For further information, please take a look at the [N64 Trimming Guide](https://bitbuilt.net/forums/threads/the-advanced-n64-trimming-guide.3992/) on [Bitbuilt.net](https://bitbuilt.net/forums/)
 
 # License
 The N64-PSU is released under the CERN-OHL-S-2.0 license. This license allows you to:
