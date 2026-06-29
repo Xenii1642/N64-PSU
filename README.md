@@ -22,7 +22,7 @@ Components are listed in the [BOM.pdf](https://github.com/Xenii1642/N64-PSU/BOM.
 
 # Connection Diagram
 The N64-PSU can be connected to a Nintendo 64 motherboard as shown:
-<img src="Images/diagram.jpg" width="800" />
+<img src="Images/diagram.png" width="800" />
 ⚠️ It is highly recommended to remove the original 12 to 5V LDO (U13) ⚠️
 
 ⚠️ Never power the console by both the original power supply and the N64-PSU as the same time.
@@ -33,11 +33,11 @@ For further information, please take a look at the [N64 Trimming Guide](https://
 # License
 The N64-PSU is released under the CERN-OHL-S-2.0 license. This license allows you to:
 
-    Study
-    Modify
-    Manufacture
-    Sell
-    Distribute
+- Study
+- Modify
+- Manufacture
+- Sell
+- Distribute
 
 Any modified versions of derivatives must also remain open-source under the same, unmodified license.
 You must also properly credit the original creators when reusing or redistributing these files.
